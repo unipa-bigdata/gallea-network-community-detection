@@ -1,0 +1,6 @@
+*.Rdata
+*.png
+Refs/
+Consegna/
+.idea/
+*.txt
