@@ -15,7 +15,7 @@ For demonstration purposes, three main R files exist, all processing the network
 
 - `singleOptimization.R` - Runs single execution of Simulated Annealing optimization
 
-- `multiOptimization.R` - Runs 1000 executions of Simulated Annealing optimization and extract statistics from the 
+- `multiOptimization.R` - Runs 1000 executions of Simulated Annealing optimization and extracts statistics from the 
 results
 
 - `gaOptimization.R` - Runs single execution of Genetic Algorithm optimization (tooks a lot of time to complete)
